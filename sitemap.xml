@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://fanskou.github.io/Gallery/index.html</loc>
+    
+    <lastmod>2022-01-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://fanskou.github.io/Gallery/ohmygirl/index.html</loc>
+    
+    <lastmod>2022-01-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://fanskou.github.io/playlist/index.html</loc>
+    
+    <lastmod>2022-01-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://fanskou.github.io/categories/index.html</loc>
     
     <lastmod>2022-01-23</lastmod>
@@ -12,15 +39,6 @@
   
   <url>
     <loc>https://fanskou.github.io/tags/index.html</loc>
-    
-    <lastmod>2022-01-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://fanskou.github.io/photo/index.html</loc>
     
     <lastmod>2022-01-23</lastmod>
     
@@ -40,7 +58,7 @@
 
   <url>
     <loc>https://fanskou.github.io/</loc>
-    <lastmod>2022-01-24</lastmod>
+    <lastmod>2022-01-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
